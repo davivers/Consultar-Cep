@@ -28,8 +28,9 @@
         width: 100%;
     }
     .header{
-        position: fixed;
-        z-index: 999;
+        position:flex-center;
+        display:flex;
+        margin-bottom: 500px;
         
     }
 }
