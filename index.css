@@ -27,5 +27,8 @@ body{
     .form-container{
         width: 100%;
     }
+    .header{
+        z-index: 1;
+    }
 }
 
